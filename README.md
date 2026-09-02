@@ -199,7 +199,7 @@ Estou transformando meus estudos em projetos pr√°ticos para construir meu portf√
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ritafernandes-dev/ritafernandes-dev/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/ritafernandes-dev/ritafernandes-dev/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
 
