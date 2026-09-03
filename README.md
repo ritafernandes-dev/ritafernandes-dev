@@ -1,46 +1,49 @@
-# Rita Fernandes | Developera in Progress
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=SYSTEM%20INITIALIZING...&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Rita%20Fernandes%20%7C%20Future%20Full%20Stack%20Developer&descAlignY=58&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080510,45:24104F,75:6C2BD9,100:0B1026&height=220&section=header&text=RITA%20FERNANDES&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=%3C%20DEVELOPER%20IN%20PROGRESS%20%2F%3E&descAlignY=58&descSize=18&descColor=C084FC" width="100%"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=9B8CFF&center=true&vCenter=true&width=700&lines=Hello%2C+World!+%F0%9F%91%8B;Welcome+to+my+GitHub+%F0%9F%9A%80;Learning+%E2%80%A2+Building+%E2%80%A2+Evolving;Future+Full+Stack+Developer+%F0%9F%92%BB;Turning+ideas+into+code+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=760&lines=%3E+Hello%2C+World!+%F0%9F%91%8B;%3E+Bem-vindo+ao+meu+GitHub+%F0%9F%9A%80;%3E+Aprender+%E2%80%A2+Praticar+%E2%80%A2+Construir;%3E+Transformando+ideias+em+c%C3%B3digo+%E2%9C%A8;%3E+Future+Full+Stack+Developer+%F0%9F%92%BB;%3E+System+Status%3A+Learning...+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ritafernandes-dev&label=PROFILE%20VIEWS&color=6C5CE7&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=ritafernandes-dev&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 🧠 `> ABOUT_ME`
+<div align="center">
 
-```text
-╔══════════════════════════════════════════════════════╗
-║                  SYSTEM PROFILE                     ║
-╠══════════════════════════════════════════════════════╣
-║ NAME        : Rita Fernandes                         ║
-║ ROLE        : Developer in Progress                  ║
-║ FOCUS       : Web Development                        ║
-║ GOAL        : Full Stack Development                 ║
-║ STATUS      : ███████░░░ Learning...                 ║
-╚══════════════════════════════════════════════════════╝
-```
+### `> SYSTEM STATUS`
 
-👋 Olá! Eu sou **Rita Fernandes**, uma desenvolvedora em formação, apaixonada por tecnologia, aprendizado e criação de soluções digitais.
+🟢 **ONLINE** &nbsp;&nbsp; ⚡ **LEARNING** &nbsp;&nbsp; 🚀 **BUILDING**
 
-Atualmente estou construindo minha base em **desenvolvimento web**, estudando programação e conhecendo as principais ferramentas utilizadas no mercado.
-
-Meu objetivo é evoluir passo a passo até me tornar uma **desenvolvedora Full Stack**, criando projetos reais e construindo um portfólio sólido.
-
-💡 Acredito que aprender programação é uma jornada: **estudar → praticar → construir → melhorar**.
-
-> `Learning today. Building tomorrow. 🚀`
+</div>
 
 ---
+
+## 💜 `> SOBRE_MIM`
+
+Olá! Eu sou **Rita Fernandes**, desenvolvedora em formação e apaixonada por tecnologia, criatividade e aprendizado.
+
+Atualmente estou construindo minha base em **desenvolvimento web** e dando meus primeiros passos no universo da programação.
+
+Meu objetivo é evoluir continuamente até me tornar uma **desenvolvedora Full Stack**, criando projetos reais e construindo um portfólio profissional.
+
+✨ Gosto de aprender na prática, transformar ideias em projetos e acompanhar minha própria evolução.
+
+> **Estudar → Praticar → Construir → Melhorar**
+
+```javascript
+const rita = {
+    foco: "Desenvolvimento Web",
+    objetivo: "Full Stack Developer",
+    mentalidade: "Aprender sempre",
+    status: "Em evolução 🚀"
+};
+
 
 ## ⚡ `> CURRENT_MISSION`
 
